@@ -24,7 +24,7 @@ Kırmızı renk, HSV renk çemberinin hem başında hem sonunda yer aldığı i�
 
 Maske oluşturulurken eklenemeyen gölge alanları maskeye dahil edebilmek için:
 
-Kernel Tanımlama: (9,7) boyutunda bir matris ile tarama yapılarak pikseller gruplanmıştır.
+Kernel Tanımlama: (15,15) boyutunda bir matris ile tarama yapılarak pikseller gruplanmıştır.
 
 Morphology (Closing): Gül üzerindeki gölgelerden kaynaklanan küçük siyah delikler bu işlemle kapatılmıştır.
 
