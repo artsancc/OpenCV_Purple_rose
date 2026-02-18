@@ -56,8 +56,8 @@ Kodu çalıştırın.
 ![rose](https://github.com/user-attachments/assets/704118f9-ffea-4dc1-ae8c-84328170cd87)
 
 #Output
-<img width="1000" height="667" alt="maske" src="https://github.com/user-attachments/assets/9b9cd204-9c78-44cb-94db-77613faf884a" />
-<img width="1000" height="667" alt="sonuc" src="https://github.com/user-attachments/assets/ab02e2f7-27c9-4c4c-a337-da602d2c5f68" />
+<img width="1000" height="667" alt="maske" src="https://github.com/user-attachments/assets/dfb8164d-9844-458b-bb2b-4f90f15681e5" />
+<img width="1000" height="667" alt="sonuc" src="https://github.com/user-attachments/assets/67bd23f8-c358-47f2-8936-6acba5851270" />
 
 # Sonuç
 Arka plan karartılır ve sadece rengi değiştirilmiş, temizlenmiş gül ekrana yansıtılır.
