@@ -18,9 +18,9 @@ mask2 = cv2.inRange(hsv, lower_red2, upper_red2)
 rose_mask = cv2.bitwise_or(mask1, mask2)
 
 # Gürültü temizleme
-kernel = np.ones((9,7), np.uint8)
+kernel = np.ones((15,15), np.uint8)
 rose_mask = cv2.morphologyEx(rose_mask, cv2.MORPH_CLOSE, kernel)
-rose_mask = cv2.GaussianBlur(rose_mask, (9,7), 0)
+rose_mask = cv2.GaussianBlur(rose_mask, (15,15), 0)
 
 # Gülü ayır
 rose_only = cv2.bitwise_and(img, img, mask=rose_mask)
